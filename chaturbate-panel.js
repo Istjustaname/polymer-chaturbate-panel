@@ -1,5 +1,6 @@
-import {PolymerElement, html} from '@polymer/polymer';
-import {} from '@polymer/polymer/lib/elements/dom-if.js';
+import { PolymerElement, html } from '@polymer/polymer/polymer-element.js';
+import '@polymer/polymer/lib/elements/dom-if.js';
+
   class ChaturbatePanel extends PolymerElement {
     static get template() {
       return html `<style>
