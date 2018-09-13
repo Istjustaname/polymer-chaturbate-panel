@@ -66,6 +66,4 @@ class ChaturbatePanel extends PolymerElement {
   }
 }
 
-if (!customElements.get('chaturbate-panel')) {
-    customElements.define('chaturbate-panel', ChaturbatePanel);
-}
+customElements.define('chaturbate-panel', ChaturbatePanel);
