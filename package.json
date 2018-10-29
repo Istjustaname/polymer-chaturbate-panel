@@ -1,8 +1,8 @@
 {
   "name": "@istjustaname/polymer-chaturbate-panel",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": {
-    "@polymer/polymer": "latest"
+    "@polymer/polymer": "^3.1.0"
   },
   "engines": {
     "npm": ">= 6.0.0"
